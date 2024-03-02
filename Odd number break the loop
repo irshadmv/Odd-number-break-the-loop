@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+    int i;
+ while(1<2)
+{printf("enter the number ");
+    scanf("%d",&i);
+    if(i%2==1)
+    {
+        break;
+    }
+}
+printf("iam out of the loop");
+
+    return 0;
+}
